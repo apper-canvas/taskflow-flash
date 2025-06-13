@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Complete quarterly report",
+    "description": "Compile Q3 performance metrics and prepare presentation for board meeting",
+    "categoryId": "work",
+    "priority": "high",
+    "dueDate": "2024-01-15T09:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-10T08:30:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Schedule team standup meetings",
+    "description": "Set up recurring daily standups for the development team",
+    "categoryId": "work",
+    "priority": "medium",
+    "dueDate": "2024-01-12T10:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-10T09:15:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Buy groceries for the week",
+    "description": "Milk, bread, eggs, vegetables, and fruit for meal prep",
+    "categoryId": "personal",
+    "priority": "medium",
+    "dueDate": "2024-01-11T18:00:00Z",
+    "completed": true,
+    "createdAt": "2024-01-09T16:20:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Review design mockups",
+    "description": "Provide feedback on the new mobile app interface designs",
+    "categoryId": "work",
+    "priority": "high",
+    "dueDate": "2024-01-13T14:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-10T11:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Book dentist appointment",
+    "description": "Schedule regular checkup and cleaning for next month",
+    "categoryId": "health",
+    "priority": "low",
+    "dueDate": "2024-01-20T16:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-08T14:30:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather, and pack equipment",
+    "categoryId": "personal",
+    "priority": "low",
+    "dueDate": "2024-01-14T12:00:00Z",
+    "completed": false,
+    "createdAt": "2024-01-09T19:00:00Z"
+  },
+  {
+    "id": "7",
+    "title": "Update portfolio website",
+    "description": "Add recent projects and refresh the about section",
+    "categoryId": "work",
+    "priority": "medium",
+    "dueDate": "2024-01-18T17:00:00Z",
+    "completed": true,
+    "createdAt": "2024-01-07T10:15:00Z"
+  }
+]
